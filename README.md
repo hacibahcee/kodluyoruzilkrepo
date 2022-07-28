@@ -1,2 +1,2 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Buluşma
+Yarın 17:30 gibi çıkarız.
